@@ -4,5 +4,6 @@ They include primary colors
 Blue green and red
 The other colors of rainbow are
 Violet
+Indigo
 Yellow
 Orange
