@@ -7,3 +7,4 @@ Violet
 Indigo
 Yellow
 Orange
+Black
